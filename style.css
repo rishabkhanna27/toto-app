@@ -1,0 +1,38 @@
+.header{
+    background-color:gray;
+    margin:auto;
+    text-align:center;
+}
+
+.layout{
+    height: 700px;
+    background-color: white;
+    margin-top:40;
+    margin-bottom:40;
+    margin-left:100;
+    margin-right:100;
+    ;
+}
+
+.header{
+background-color:grey;
+border:2px solid;
+;
+}
+
+.Movies-add{
+margin-bottom: 10px;
+text-align:center;
+
+}
+.delete{
+    background-color:purple;
+    text-align: right;
+    float: right;;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#add{
+    background-color:purple;
+
+}
